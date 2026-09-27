@@ -44,7 +44,7 @@ int main(int argc, char *argv[]) {
         if (prime) {
             printf("Rank %d: %d is prime\n", rank, i);
         }
-        
+
         }
     }
 
